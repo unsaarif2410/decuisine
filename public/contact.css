@@ -1,0 +1,14 @@
+.spacee{
+    margin-top: 50px;
+}
+.help{
+    font-family: 'Denk One';
+    color: #c62828;
+    text-align: center;
+}
+.form{
+    background-color: transparent !important;
+}
+.textarea:hover{
+    border-color: #fff9c4 !important;
+}

@@ -1,0 +1,204 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.mainheading{
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+    font-family: 'Denk One';font-size: 32px;
+    color: #c62828;
+    margin-top: 20px;
+}  
+.mainheading>span{
+    color: #ef6c00;
+    
+}
+.bookbtn{
+    border: 3px solid #c62828;
+    color: #ef6c00;
+    height: 40px;
+    background-color: white;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.bookbtn:hover{
+    color: white;
+    background-color:#ef6c00; 
+}
+.navvv{
+    background-color: #fff9c4 !important;
+}
+.nav-link{
+    color:#ef6c00 !important ;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color:#c62828 !important ;
+}
+.nav-link:visited{
+    color:#c62828 ;
+}
+.btnn{
+    background-color: #fff9c4 !important;
+    margin-top: -3px !important;
+}
+.btnn:hover{
+    background-color: #ef6c00 !important;
+}
+@media screen and (min-width: 600px) {
+        .sliderimg{
+            height:400px;
+        }
+        
+    }
+
+.carousel-indicators {
+    position: absolute;
+bottom: 10px;
+left: 50%;
+z-index: 15;
+width: 60%;
+padding-left: 0;
+margin-left: -30%;
+text-align: center;
+}
+
+.ourbestdishes{
+    text-align: center;
+    font-family: 'Denk One';font-size: 32px;
+    color: #c62828;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+    
+}
+.ourbestdishes>span{
+    color: #ef6c00;   
+}
+
+.cards{
+   display: inline-flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.card{
+    height: auto !important;
+    width: 250px !important;
+    margin-bottom: 20px;   
+}
+.card-title{
+    text-align: center;
+    color:#c62828 ;
+}
+@media screen and (max-width: 576px) {
+    .box1,.box2,.box3,.card{
+        margin: 0 auto;
+        margin-bottom: 10px !important;
+    }
+}
+.box1,.box2,.box3{
+    background-color:#fff9c4 ;
+    width: 300px;
+    height: 90px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: 2px solid #c62828;
+    border-radius: 30px;
+    
+    
+}
+.icon{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+    
+
+    
+    
+}
+.name{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 90px;
+    font-family: 'Denk One';
+    color:#ef6c00 ;
+   
+   
+}
+.fa{
+    font-size: 50px !important;
+    color:#c62828 ;
+}
+.icon1,.icon3{
+    margin-left: 80px !important;
+}
+.icon1{
+    margin-top: 35px;
+}
+.footer{
+    width: 100% ;
+    height: auto;
+    margin-top: 80px;
+    background-color:#fff9c4 ;
+}
+.space{
+    margin-top: 20px;
+}
+.footer-heading{
+    font-family: 'Denk One';
+    color: #c62828;
+    font-size: 42px;
+}
+.footer-heading>span{
+    color: #ef6c00;
+}
+.logoo{
+    margin-left: 30px;
+}
+.font{
+    font-family: 'Denk One';
+    color: #c62828;
+}
+.fa-map-marker,.fa-phone-square,.fa-envelope{
+    font-size: 20px !important;
+}
+.fa-facebook,.fa-twitter,.fa-instagram{
+    font-size: 30px !important;
+    margin-left: 90px;
+}
+.lftspc{
+    margin-left: 50px;
+}
+.lastfooter{
+    width: 100%;
+    height: auto;
+    background-color: #ef6c00;
+}
+/* .2lastfooter */
+.follow{
+   width: 40px;
+   height: 40px;
+   margin: 5px;
+   
+   
+}
+.followbox{
+    display: flex;
+    justify-content: center;
+}
+.top{
+    width: 50px;
+    height: 50px;
+    margin-left: 1220px;
+    opacity: 0.5;
+    position: fixed;
+    bottom: 0;
+  right: 0;
+}
+

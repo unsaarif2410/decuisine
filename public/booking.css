@@ -1,0 +1,107 @@
+.serve{
+    text-align: center;
+    font-family: 'Denk One';font-size: 32px;
+    color: #c62828;
+    margin-top: 50px;
+}
+.serve>span{
+    color: #ef6c00;
+}
+
+#abc{
+    margin-left: 200px;
+    /* text-align: right; */
+    color: red;
+    
+    
+}
+.fname{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.lname{
+    margin-left: 53px;
+}
+.dob{
+    margin-left: 110px;
+}
+.email{
+    margin-left: 73px;
+}
+.mobilenum{
+    margin-left: 09px;
+}
+
+p>span{
+    word-spacing: 80px;
+}
+
+h1{
+    color: blue;
+}
+/* .add{
+    margin-left: 147px; 
+} */
+.city{
+    margin-left: 106px; 
+}
+.pin{
+    margin-left: 67px; 
+}
+.country{
+    margin-left: 63px; 
+}
+.state{
+    margin-left: 93px; 
+}
+.qua{
+    margin-left:200px;
+}
+#courses{
+    margin-left: 50px;
+}
+h2{
+    color: green;
+    font-size: 70px;
+}
+h2~p{
+    color: blue;
+    font-size: 30px;
+}
+.gb{
+    color:gray;
+    font-size: 30px;
+}
+.form{
+    background-color: #fff9c4;
+    color:#c62828;
+    width: auto;
+    font-weight: bold;
+    
+    
+}
+p{
+    margin-left: 40px;
+}
+.btn{
+    margin-bottom: 50px;
+    color:#ef6c00 ;
+    font-weight: bold;
+    border: 2px solid #c62828 ;
+    margin-top: 30px;
+}
+.btn:hover{
+    color: white;
+    background-color: #ef6c00;
+}
+#star{
+    color: red;
+}
+.top{
+    vertical-align: top;
+}
+.time{
+    margin-right: 30px;
+}
+
+
